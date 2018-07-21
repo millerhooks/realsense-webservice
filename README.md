@@ -54,5 +54,9 @@ To get the current 3D real world coordinates in metres of an (x,y) pixel coordin
  }`  
 * **Error Response:** Invalid coordinate values
 
+## Acknowledgement
+* The video streaming part was adapted from [Flask Video Streaming](https://github.com/miguelgrinberg/flask-video-streaming) by [Miguel Grinberg](https://github.com/miguelgrinberg) which is under MIT License  
+* [Examples](https://github.com/IntelRealSense/librealsense/tree/master/wrappers/python/examples) provided by [librealsense](https://github.com/IntelRealSense/librealsense) were referred and used.
+
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
